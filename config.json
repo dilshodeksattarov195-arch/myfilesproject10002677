@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerstringify",
+        "uuid": 9184787,
+        "checksum": "5hdss"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
